@@ -1,1 +1,1 @@
-# SENSOR SAMPLE SCRIPT
+# Sensor sample scripts
